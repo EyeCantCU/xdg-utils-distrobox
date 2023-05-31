@@ -44,7 +44,7 @@ BuildRequires: xmlto lynx
 
 Requires: coreutils
 Requires: desktop-file-utils
-Requires: which
+Requires: busybox-which
 
 %description
 The %{name} package is a set of simple scripts that provide basic
